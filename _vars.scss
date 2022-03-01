@@ -1,0 +1,82 @@
+/* Copyright: Ankitects Pty Ltd and contributors
+ * License: GNU AGPL, version 3 or later; http://www.gnu.org/licenses/agpl.html */
+
+:root {
+    --text-fg: white;
+    --window-bg: #2D142C;
+    --frame-bg: #510A32;
+    --border: #C72C41;
+    --medium-border: #510A32;
+    --faint-border: #EE4540;
+    --link: #EE4540;
+    --review-count: #5ccc00;
+    --new-count: #77ccff;
+    --learn-count: #ff935b;
+    --zero-count: #444;
+    --slightly-grey-text: #dfdfdf;
+    --highlight-bg: #77ccff;
+    --highlight-fg: white;
+    --disabled: #1c1c1c;
+    --flag1-fg: #ff7b7b;
+    --flag2-fg: #f5aa41;
+    --flag3-fg: #86ce5d;
+    --flag4-fg: #6f9dff;
+    --flag5-fg: #f097e4;
+    --flag6-fg: #5ccfca;
+    --flag7-fg: #9f63d3;
+    --flag1-bg: #aa5555;
+    --flag2-bg: #ac653a;
+    --flag3-bg: #559238;
+    --flag4-bg: #506aa3;
+    --flag5-bg: #975d8f;
+    --flag6-bg: #399185;
+    --flag7-bg: #624b77;
+    --buried-fg: #777733;
+    --suspended-fg: #ffffb2;
+    --suspended-bg: #aaaa33;
+    --marked-bg: #77c;
+    --tooltip-bg: #272727;
+    --focus-border: #316dca;
+    --focus-shadow: #194380;
+    color-scheme: dark;
+}
+
+:root[class*="night-mode"] {
+    --text-fg: white;
+    --window-bg: #23212B;
+    --frame-bg: #444157;
+    --border: #C72C41;
+    --medium-border: #510A32;
+    --faint-border: #EE9B84;
+    --link: #EE4540;
+    --review-count: #5ccc00;
+    --new-count: #EE9B84;
+    --learn-count: #EE87BC;
+    --zero-count: #444;
+    --slightly-grey-text: #dfdfdf;
+    --highlight-bg: #C72C41;
+    --highlight-fg: white;
+    --disabled: #1c1c1c;
+    --flag1-fg: #ff7b7b;
+    --flag2-fg: #f5aa41;
+    --flag3-fg: #86ce5d;
+    --flag4-fg: #6f9dff;
+    --flag5-fg: #f097e4;
+    --flag6-fg: #5ccfca;
+    --flag7-fg: #9f63d3;
+    --flag1-bg: #aa5555;
+    --flag2-bg: #ac653a;
+    --flag3-bg: #559238;
+    --flag4-bg: #506aa3;
+    --flag5-bg: #975d8f;
+    --flag6-bg: #399185;
+    --flag7-bg: #624b77;
+    --buried-fg: #777733;
+    --suspended-fg: #ffffb2;
+    --suspended-bg: #aaaa33;
+    --marked-bg: #77c;
+    --tooltip-bg: #272727;
+    --focus-border: #316dca;
+    --focus-shadow: #194380;
+    color-scheme: dark;
+}
